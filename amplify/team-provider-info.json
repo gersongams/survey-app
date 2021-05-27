@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-realtimesurvey-dev-174235-authRole",
+      "UnauthRoleArn": "arn:aws:iam::223184242587:role/amplify-realtimesurvey-dev-174235-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::223184242587:role/amplify-realtimesurvey-dev-174235-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-realtimesurvey-dev-174235-deployment",
+      "UnauthRoleName": "amplify-realtimesurvey-dev-174235-unauthRole",
+      "StackName": "amplify-realtimesurvey-dev-174235",
+      "StackId": "arn:aws:cloudformation:us-east-1:223184242587:stack/amplify-realtimesurvey-dev-174235/05878ea0-b1e1-11eb-943f-0e4c53e0aefd",
+      "AmplifyAppId": "d396crcqcirqiq"
+    },
+    "categories": {
+      "auth": {
+        "realtimesurveyf3e79b1f": {}
+      }
+    }
+  }
+}
